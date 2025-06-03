@@ -1,0 +1,149 @@
+[
+  {
+    "nome": "Smartphone Galaxy S23",
+    "categoria": "celular",
+    "marca": "Samsung",
+    "preco": 3899,
+    "descricao": "Câmera tripla, ótimo desempenho."
+  },
+  {
+    "nome": "Smartphone Galaxy A55",
+    "categoria": "celular",
+    "marca": "Samsung",
+    "preco": 1900,
+    "descricao": "Bom desempenho e bateria de longa duração."
+  },
+  {
+    "nome": "iPhone 15 Pro",
+    "categoria": "celular",
+    "marca": "Apple",
+    "preco": 7299,
+    "descricao": "Chip A17 Pro, sistema de câmera Pro."
+  },
+  {
+    "nome": "iPhone SE (3ª geração)",
+    "categoria": "celular",
+    "marca": "Apple",
+    "preco": 3100,
+    "descricao": "Chip A15 Bionic, design clássico."
+  },
+  {
+    "nome": "Moto G84",
+    "categoria": "celular",
+    "marca": "Motorola",
+    "preco": 1799,
+    "descricao": "Tela pOLED, câmera de 50 MP."
+  },
+  {
+    "nome": "Xiaomi Redmi Note 13",
+    "categoria": "celular",
+    "marca": "Xiaomi",
+    "preco": 1450,
+    "descricao": "Tela AMOLED 120Hz, câmera de 108MP."
+  },
+  {
+    "nome": "Smartphone TechBarato X100",
+    "categoria": "celular",
+    "marca": "TechBarato",
+    "preco": 899,
+    "descricao": "Modelo básico, ideal para o dia a dia."
+  },
+  {
+    "nome": "Notebook Acer Aspire 5",
+    "categoria": "notebook",
+    "marca": "Acer",
+    "preco": 3199,
+    "descricao": "Leve e rápido, ótimo para estudos."
+  },
+  {
+    "nome": "Notebook Dell XPS 13",
+    "categoria": "notebook",
+    "marca": "Dell",
+    "preco": 5999,
+    "descricao": "Alta performance, ideal para trabalho pesado."
+  },
+  {
+    "nome": "MacBook Air M2",
+    "categoria": "notebook",
+    "marca": "Apple",
+    "preco": 8500,
+    "descricao": "Chip M2, design fino e leve, longa bateria."
+  },
+  {
+    "nome": "Notebook Lenovo IdeaPad 3",
+    "categoria": "notebook",
+    "marca": "Lenovo",
+    "preco": 2800,
+    "descricao": "Bom custo-benefício para tarefas diárias."
+  },
+  {
+    "nome": "Notebook HP Pavilion 15",
+    "categoria": "notebook",
+    "marca": "HP",
+    "preco": 3500,
+    "descricao": "Tela Full HD, processador Intel Core i5."
+  },
+  {
+    "nome": "Notebook Gamer Asus ROG Strix G16",
+    "categoria": "notebook",
+    "marca": "Asus",
+    "preco": 9800,
+    "descricao": "Alto desempenho para jogos, RTX 4060."
+  },
+  {
+    "nome": "Fone de Ouvido JBL Tune 500",
+    "categoria": "fone",
+    "marca": "JBL",
+    "preco": 299,
+    "descricao": "Som potente com graves reforçados."
+  },
+  {
+    "nome": "Fone de Ouvido Sony WH-1000XM5",
+    "categoria": "fone",
+    "marca": "Sony",
+    "preco": 1899,
+    "descricao": "Cancelamento de ruído líder de mercado."
+  },
+  {
+    "nome": "Fone de Ouvido Bose QuietComfort Ultra",
+    "categoria": "fone",
+    "marca": "Bose",
+    "preco": 2100,
+    "descricao": "Conforto excepcional e áudio imersivo."
+  },
+  {
+    "nome": "AirPods (3ª geração)",
+    "categoria": "fone",
+    "marca": "Apple",
+    "preco": 1300,
+    "descricao": "Áudio Espacial, ajuste universal."
+  },
+  {
+    "nome": "Monitor LG UltraWide 29WL500",
+    "categoria": "monitor",
+    "marca": "LG",
+    "preco": 1249,
+    "descricao": "29 polegadas, ideal para multitarefa."
+  },
+  {
+    "nome": "Monitor Dell UltraSharp U2723QE",
+    "categoria": "monitor",
+    "marca": "Dell",
+    "preco": 3500,
+    "descricao": "27 polegadas, 4K, cores precisas."
+  },
+  {
+    "nome": "Monitor Gamer Samsung Odyssey G5",
+    "categoria": "monitor",
+    "marca": "Samsung",
+    "preco": 1999,
+    "descricao": "27 polegadas, Curvo, 144Hz, 1ms."
+  },
+  {
+    "nome": "Monitor Philips 242V8A",
+    "categoria": "monitor",
+    "marca": "Philips",
+    "preco": 750,
+    "descricao": "24 polegadas, Full HD, bom custo-benefício."
+  }
+]
